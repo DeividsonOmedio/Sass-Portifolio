@@ -1,2 +1,2 @@
 # Sass-Portifolio
-Portifolio criando utlizanso Saas, React e next.
+Portifolio criando utlizanso Saas e React.
